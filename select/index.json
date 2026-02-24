@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "ADAM",
+  "base_artist": "雨良",
+  "createdAt": "2026-02-24T07:07:05.649185Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Adam and Eve",
+      "artist": "Nas feat. The-Dream",
+      "has_synced": true,
+      "path": "select/01_Adam_and_Eve_Nas_feat._The-Dream.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Adam and Eve (Feat. The-Dream)",
+      "artist": "Nas",
+      "has_synced": true,
+      "path": "select/02_Adam_and_Eve_(Feat._The-Dream)_Nas.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Adam (Act Like)",
+      "artist": "Fred again..",
+      "has_synced": true,
+      "path": "select/03_Adam_(Act_Like)_Fred_again...lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Adam (Interlude)",
+      "artist": "Fred again..",
+      "has_synced": true,
+      "path": "select/04_Adam_(Interlude)_Fred_again...lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Adam",
+      "artist": "Alex G",
+      "has_synced": true,
+      "path": "select/05_Adam_Alex_G.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Adam",
+      "artist": "Alex G",
+      "has_synced": true,
+      "path": "select/06_Adam_Alex_G.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "La Musique (Adam Sky Remix)",
+      "artist": "Riot in Belgium",
+      "has_synced": false,
+      "path": "select/07_La_Musique_(Adam_Sky_Remix)_Riot_in_Belgium.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Adam In Chains",
+      "artist": "Billy Idol",
+      "has_synced": false,
+      "path": "select/08_Adam_In_Chains_Billy_Idol.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lay Me Down (Feat. Adam Lambert)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/09_Lay_Me_Down_(Feat._Adam_Lambert)_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Adam Copies",
+      "artist": "Baths",
+      "has_synced": true,
+      "path": "select/10_Adam_Copies_Baths.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "STRANDED (feat. Childish Major & Adam Feeney)",
+      "artist": "BEAM",
+      "has_synced": true,
+      "path": "select/11_STRANDED_(feat._Childish_Major_&_Adam_Feeney)_BEAM.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "What I Might Do (Adam Shelton Remix)",
+      "artist": "Ben Pearce",
+      "has_synced": false,
+      "path": "select/12_What_I_Might_Do_(Adam_Shelton_Remix)_Ben_Pearce.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lifestyle (Jason Derulo feat. Adam Levine)",
+      "artist": "Jason Derulo feat. Adam Levine & Maroon 5",
+      "has_synced": true,
+      "path": "select/13_Lifestyle_(Jason_Derulo_feat._Adam_Levine)_Jason_Derulo_feat._Adam_Levine_&_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "This Modern Love - Dave P. And Adam Sparkle's Making Time Remix",
+      "artist": "Bloc Party",
+      "has_synced": false,
+      "path": "select/14_This_Modern_Love_-_Dave_P._And_Adam_Sparkle's_Making_Time_Remix_Bloc_Party.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Adam & Steve",
+      "artist": "Dorian Electra",
+      "has_synced": true,
+      "path": "select/15_Adam_&_Steve_Dorian_Electra.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Adam & Steve (Count Baldor Remix)",
+      "artist": "Dorian Electra feat. Count Baldor",
+      "has_synced": true,
+      "path": "select/16_Adam_&_Steve_(Count_Baldor_Remix)_Dorian_Electra_feat._Count_Baldor.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Adam & Steve (Count Baldor Remix)",
+      "artist": "Dorian Electra",
+      "has_synced": true,
+      "path": "select/17_Adam_&_Steve_(Count_Baldor_Remix)_Dorian_Electra.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ADAM",
+      "artist": "雨良",
+      "has_synced": false,
+      "path": "select/pl_01_ADAM_雨良.txt"
+    }
+  ]
+}
